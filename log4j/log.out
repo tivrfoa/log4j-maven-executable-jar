@@ -1,0 +1,4 @@
+2020-09-30-main--INFO -com.lsc.Log4jPattern:This Is A Log Message ..!
+2020-09-30 16:11:00,568-main.M()--INFO -com.lsc.Log4jPattern:This Is A Log Message ..!
+2020-09-30 16:13:38,956-main--INFO -com.lsc.Log4jPattern.main() 11: This Is A Log Message ..!
+[INFO] 2020-09-30 16:25:33,571-main--com.lsc.Log4jPattern.main() 11: This Is A Log Message ..!
