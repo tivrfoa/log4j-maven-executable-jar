@@ -8,5 +8,5 @@
 
 [log4j faq](http://logging.apache.org/log4j/1.2/faq.html#noconfig)
 
-[https://examples.javacodegeeks.com/enterprise-java/log4j/log4j-conversion-pattern-example/](Log4j Conversion Pattern Example)
+[Log4j Conversion Pattern Example](https://examples.javacodegeeks.com/enterprise-java/log4j/log4j-conversion-pattern-example/)
 
